@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BillionStars_PersonalUse.ttf",
+      "sha1": "7f44c7441d33da2857eea5aa76e283b03a75d2ee"
+    },
+    {
+      "path": "assets/fonts/MsMadi-Regular.ttf",
+      "sha1": "86171ce6887db3ae5d2ddb19e1a90899d405ffa1"
+    },
+    {
+      "path": "assets/fonts/Nabla-Regular.ttf",
+      "sha1": "c50a0335afa1534ded079620cf4ddc65b1090dc8"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "0ad533c702f9ac1de717063040426858662cfbcc"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Regular.ttf",
+      "sha1": "dc9c07303a2392f9ee02fdb636814970753ac94a"
+    }
+  ]
+}
